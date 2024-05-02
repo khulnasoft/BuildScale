@@ -164,7 +164,7 @@
     "detect-port": "^1.5.1",
     "dotenv": "~16.3.1",
     "dotenv-expand": "^10.0.0",
-    "ejs": "^3.1.7",
+    "ejs": "^3.1.10",
     "enhanced-resolve": "^5.8.3",
     "esbuild": "0.19.5",
     "eslint": "8.57.0",
